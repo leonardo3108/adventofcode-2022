@@ -33,5 +33,6 @@ for opponent, second in plays:
 
     # Your total score is the sum of your scores for each round.
     total_two += score
+    
 print('Part one:', total_one)
 print('Part two:', total_two)
